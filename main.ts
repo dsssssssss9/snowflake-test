@@ -10,8 +10,8 @@ DigitalPin.P2,
 true,
 8,
 50,
-8,
-128
+1,
+50
 )
 snowflake.load_default_backgroud()
 basic.showIcon(IconNames.Yes)
